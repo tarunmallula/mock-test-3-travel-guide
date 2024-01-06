@@ -1,0 +1,27 @@
+.list-element {
+  background-color: #ffffff;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+.image {
+  width: 500px;
+  height: 300px;
+}
+.heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  margin: 10px;
+}
+.caption {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  margin: 10px;
+  margin-bottom: 20px;
+}
